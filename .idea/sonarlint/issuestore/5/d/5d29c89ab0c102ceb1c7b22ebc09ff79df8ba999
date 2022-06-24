@@ -1,0 +1,15 @@
+
+E
+java:S5411x"*Use the primitive boolean expression here.(‘ûèáøÿÿÿÿ
+@
+java:S5411~"*Use the primitive boolean expression here.(¹è‰„
+F
+java:S5411"*Use the primitive boolean expression here.(¤ØÔûÿÿÿÿ
+]
+java:S3973X"GUse indentation to denote the code conditionally executed by this "if".(öË²ñ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(”‰¬Îøÿÿÿÿ
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(”‰¬Îøÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(”‰¬Îøÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(”‰¬Îøÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(”‰¬Îøÿÿÿÿ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(šÆå´úÿÿÿÿ
